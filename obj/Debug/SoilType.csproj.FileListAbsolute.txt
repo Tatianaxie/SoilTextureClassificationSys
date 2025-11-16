@@ -1,0 +1,49 @@
+D:\MyPrograms\SoilType\obj\Debug\SoilType.Form1.resources
+D:\MyPrograms\SoilType\obj\Debug\SoilType.Properties.Resources.resources
+D:\MyPrograms\SoilType\obj\Debug\SoilType.csproj.GenerateResource.cache
+D:\MyPrograms\SoilType\obj\Debug\SoilType.csproj.CoreCompileInputs.cache
+D:\MyPrograms\SoilType\bin\Debug\SoilType.exe.config
+D:\MyPrograms\SoilType\bin\Debug\SoilType.exe
+D:\MyPrograms\SoilType\bin\Debug\SoilType.pdb
+D:\MyPrograms\SoilType\obj\Debug\SoilType.exe
+D:\MyPrograms\SoilType\obj\Debug\SoilType.pdb
+D:\MyPrograms\SoilType\obj\Debug\SoilType.csproj.AssemblyReference.cache
+E:\恬恬实践\SoilType\SoilType\bin\Debug\SoilType.exe.config
+E:\恬恬实践\SoilType\SoilType\bin\Debug\SoilType.exe
+E:\恬恬实践\SoilType\SoilType\bin\Debug\SoilType.pdb
+E:\恬恬实践\SoilType\SoilType\obj\Debug\SoilType.Form1.resources
+E:\恬恬实践\SoilType\SoilType\obj\Debug\SoilType.Properties.Resources.resources
+E:\恬恬实践\SoilType\SoilType\obj\Debug\SoilType.csproj.GenerateResource.cache
+E:\恬恬实践\SoilType\SoilType\obj\Debug\SoilType.csproj.CoreCompileInputs.cache
+E:\恬恬实践\SoilType\SoilType\obj\Debug\SoilType.exe
+E:\恬恬实践\SoilType\SoilType\obj\Debug\SoilType.pdb
+D:\MyPrograms\SoilType (2)\SoilType\SoilType\bin\Debug\SoilType.exe.config
+D:\MyPrograms\SoilType (2)\SoilType\SoilType\bin\Debug\SoilType.exe
+D:\MyPrograms\SoilType (2)\SoilType\SoilType\bin\Debug\SoilType.pdb
+D:\MyPrograms\SoilType (2)\SoilType\SoilType\obj\Debug\SoilType.csproj.AssemblyReference.cache
+D:\MyPrograms\SoilType (2)\SoilType\SoilType\obj\Debug\SoilType.Form1.resources
+D:\MyPrograms\SoilType (2)\SoilType\SoilType\obj\Debug\SoilType.Properties.Resources.resources
+D:\MyPrograms\SoilType (2)\SoilType\SoilType\obj\Debug\SoilType.csproj.GenerateResource.cache
+D:\MyPrograms\SoilType (2)\SoilType\SoilType\obj\Debug\SoilType.csproj.CoreCompileInputs.cache
+D:\MyPrograms\SoilType (2)\SoilType\SoilType\obj\Debug\SoilType.exe
+D:\MyPrograms\SoilType (2)\SoilType\SoilType\obj\Debug\SoilType.pdb
+E:\恬恬实践\SoilType2\SoilType (2)\SoilType\SoilType\obj\Debug\SoilType.Form1.resources
+E:\恬恬实践\SoilType2\SoilType (2)\SoilType\SoilType\obj\Debug\SoilType.Properties.Resources.resources
+E:\恬恬实践\SoilType2\SoilType (2)\SoilType\SoilType\obj\Debug\SoilType.csproj.GenerateResource.cache
+E:\恬恬实践\SoilType2\SoilType (2)\SoilType\SoilType\obj\Debug\SoilType.csproj.CoreCompileInputs.cache
+E:\恬恬实践\SoilType2\SoilType (2)\SoilType\SoilType\obj\Debug\SoilType.exe
+E:\恬恬实践\SoilType2\SoilType (2)\SoilType\SoilType\obj\Debug\SoilType.pdb
+E:\恬恬实践\SoilType2\SoilType (2)\SoilType\SoilType\bin\Debug\SoilType.exe.config
+E:\恬恬实践\SoilType2\SoilType (2)\SoilType\SoilType\bin\Debug\SoilType.exe
+E:\恬恬实践\SoilType2\SoilType (2)\SoilType\SoilType\bin\Debug\SoilType.pdb
+D:\MyPrograms\SoilType(20240902)\SoilType\bin\Debug\SoilType.exe.config
+D:\MyPrograms\SoilType(20240902)\SoilType\bin\Debug\SoilType.exe
+D:\MyPrograms\SoilType(20240902)\SoilType\bin\Debug\SoilType.pdb
+D:\MyPrograms\SoilType(20240902)\SoilType\obj\Debug\SoilType.Form1.resources
+D:\MyPrograms\SoilType(20240902)\SoilType\obj\Debug\SoilType.Properties.Resources.resources
+D:\MyPrograms\SoilType(20240902)\SoilType\obj\Debug\SoilType.csproj.GenerateResource.cache
+D:\MyPrograms\SoilType(20240902)\SoilType\obj\Debug\SoilType.csproj.CoreCompileInputs.cache
+D:\MyPrograms\SoilType(20240902)\SoilType\obj\Debug\SoilType.exe
+D:\MyPrograms\SoilType(20240902)\SoilType\obj\Debug\SoilType.pdb
+D:\MyPrograms\SoilType(20240902)\SoilType\obj\Debug\SoilType.ShowTable.resources
+D:\MyPrograms\SoilType(20240902)\SoilType\obj\Debug\SoilType.csproj.AssemblyReference.cache

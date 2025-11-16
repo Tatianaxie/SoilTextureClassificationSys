@@ -1,0 +1,76 @@
+D:\MyPrograms\SoilType(20240902)\SoilType\bin\x86\Debug\SoilType.exe.config
+D:\MyPrograms\SoilType(20240902)\SoilType\bin\x86\Debug\SoilType.exe
+D:\MyPrograms\SoilType(20240902)\SoilType\bin\x86\Debug\SoilType.pdb
+D:\MyPrograms\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.csproj.AssemblyReference.cache
+D:\MyPrograms\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.Form1.resources
+D:\MyPrograms\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.ShowTable.resources
+D:\MyPrograms\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.Properties.Resources.resources
+D:\MyPrograms\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.csproj.GenerateResource.cache
+D:\MyPrograms\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.csproj.CoreCompileInputs.cache
+D:\MyPrograms\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.exe
+D:\MyPrograms\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.pdb
+E:\专利申请\2024-06 土壤质地划分\SoilType(20240902)\SoilType(20240902)\SoilType\bin\x86\Debug\SoilType.exe.config
+E:\专利申请\2024-06 土壤质地划分\SoilType(20240902)\SoilType(20240902)\SoilType\bin\x86\Debug\SoilType.exe
+E:\专利申请\2024-06 土壤质地划分\SoilType(20240902)\SoilType(20240902)\SoilType\bin\x86\Debug\SoilType.pdb
+E:\专利申请\2024-06 土壤质地划分\SoilType(20240902)\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.Form1.resources
+E:\专利申请\2024-06 土壤质地划分\SoilType(20240902)\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.ShowTable.resources
+E:\专利申请\2024-06 土壤质地划分\SoilType(20240902)\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.Properties.Resources.resources
+E:\专利申请\2024-06 土壤质地划分\SoilType(20240902)\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.csproj.GenerateResource.cache
+E:\专利申请\2024-06 土壤质地划分\SoilType(20240902)\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.csproj.CoreCompileInputs.cache
+E:\专利申请\2024-06 土壤质地划分\SoilType(20240902)\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.exe
+E:\专利申请\2024-06 土壤质地划分\SoilType(20240902)\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.pdb
+D:\MyPrograms\SoilType (0904)\SoilType(20240902)\SoilType(20240902)\SoilType\bin\x86\Debug\SoilType.exe.config
+D:\MyPrograms\SoilType (0904)\SoilType(20240902)\SoilType(20240902)\SoilType\bin\x86\Debug\SoilType.exe
+D:\MyPrograms\SoilType (0904)\SoilType(20240902)\SoilType(20240902)\SoilType\bin\x86\Debug\SoilType.pdb
+D:\MyPrograms\SoilType (0904)\SoilType(20240902)\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.Form1.resources
+D:\MyPrograms\SoilType (0904)\SoilType(20240902)\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.ShowTable.resources
+D:\MyPrograms\SoilType (0904)\SoilType(20240902)\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.Properties.Resources.resources
+D:\MyPrograms\SoilType (0904)\SoilType(20240902)\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.csproj.GenerateResource.cache
+D:\MyPrograms\SoilType (0904)\SoilType(20240902)\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.csproj.CoreCompileInputs.cache
+D:\MyPrograms\SoilType (0904)\SoilType(20240902)\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.exe
+D:\MyPrograms\SoilType (0904)\SoilType(20240902)\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.pdb
+D:\MyPrograms\SoilType (0904)\SoilType(20240902)\SoilType(20240902)\SoilType\obj\x86\Debug\SoilType.csproj.AssemblyReference.cache
+D:\SoilType (0904)\SoilType\obj\x86\Debug\SoilType.Form1.resources
+D:\SoilType (0904)\SoilType\obj\x86\Debug\SoilType.ShowTable.resources
+D:\SoilType (0904)\SoilType\obj\x86\Debug\SoilType.csproj.GenerateResource.cache
+D:\SoilType (0904)\SoilType\bin\x86\Debug\SoilType.exe.config
+D:\SoilType (0904)\SoilType\bin\x86\Debug\SoilType.exe
+D:\SoilType (0904)\SoilType\bin\x86\Debug\SoilType.pdb
+D:\SoilType (0904)\SoilType\obj\x86\Debug\SoilType.Properties.Resources.resources
+D:\SoilType (0904)\SoilType\obj\x86\Debug\SoilType.csproj.CoreCompileInputs.cache
+D:\SoilType (0904)\SoilType\obj\x86\Debug\SoilType.exe
+D:\SoilType (0904)\SoilType\obj\x86\Debug\SoilType.pdb
+D:\SoilType (0904)\SoilType\obj\x86\Debug\SoilType.csproj.AssemblyReference.cache
+E:\专利申请\2024-06 土壤质地划分\SoilType (0911)\SoilType (0904)\SoilType\bin\x86\Debug\SoilType.exe.config
+E:\专利申请\2024-06 土壤质地划分\SoilType (0911)\SoilType (0904)\SoilType\bin\x86\Debug\SoilType.exe
+E:\专利申请\2024-06 土壤质地划分\SoilType (0911)\SoilType (0904)\SoilType\bin\x86\Debug\SoilType.pdb
+E:\专利申请\2024-06 土壤质地划分\SoilType (0911)\SoilType (0904)\SoilType\obj\x86\Debug\SoilType.csproj.AssemblyReference.cache
+E:\专利申请\2024-06 土壤质地划分\SoilType (0911)\SoilType (0904)\SoilType\obj\x86\Debug\SoilType.Form1.resources
+E:\专利申请\2024-06 土壤质地划分\SoilType (0911)\SoilType (0904)\SoilType\obj\x86\Debug\SoilType.ShowTable.resources
+E:\专利申请\2024-06 土壤质地划分\SoilType (0911)\SoilType (0904)\SoilType\obj\x86\Debug\SoilType.Properties.Resources.resources
+E:\专利申请\2024-06 土壤质地划分\SoilType (0911)\SoilType (0904)\SoilType\obj\x86\Debug\SoilType.csproj.GenerateResource.cache
+E:\专利申请\2024-06 土壤质地划分\SoilType (0911)\SoilType (0904)\SoilType\obj\x86\Debug\SoilType.csproj.CoreCompileInputs.cache
+E:\专利申请\2024-06 土壤质地划分\SoilType (0911)\SoilType (0904)\SoilType\obj\x86\Debug\SoilType.exe
+E:\专利申请\2024-06 土壤质地划分\SoilType (0911)\SoilType (0904)\SoilType\obj\x86\Debug\SoilType.pdb
+E:\专利申请\2024-06 土壤质地划分\SoilType(0912)\obj\x86\Debug\SoilType.Form1.resources
+E:\专利申请\2024-06 土壤质地划分\SoilType(0912)\obj\x86\Debug\SoilType.ShowTable.resources
+E:\专利申请\2024-06 土壤质地划分\SoilType(0912)\obj\x86\Debug\SoilType.Properties.Resources.resources
+E:\专利申请\2024-06 土壤质地划分\SoilType(0912)\obj\x86\Debug\SoilType.csproj.GenerateResource.cache
+E:\专利申请\2024-06 土壤质地划分\SoilType(0912)\obj\x86\Debug\SoilType.csproj.CoreCompileInputs.cache
+E:\专利申请\2024-06 土壤质地划分\SoilType(0912)\obj\x86\Debug\SoilType.exe
+E:\专利申请\2024-06 土壤质地划分\SoilType(0912)\obj\x86\Debug\SoilType.pdb
+E:\专利申请\2024-06 土壤质地划分\SoilType(0912)\bin\x86\Debug\SoilType.exe.config
+E:\专利申请\2024-06 土壤质地划分\SoilType(0912)\bin\x86\Debug\SoilType.exe
+E:\专利申请\2024-06 土壤质地划分\SoilType(0912)\bin\x86\Debug\SoilType.pdb
+E:\专利申请\2024-06 土壤质地划分\SoilType(0912)\obj\x86\Debug\SoilType.csproj.AssemblyReference.cache
+D:\SoilType(0912)\SoilType(0912)\obj\x86\Debug\SoilType.csproj.AssemblyReference.cache
+D:\SoilType(0912)\SoilType(0912)\obj\x86\Debug\SoilType.Form1.resources
+D:\SoilType(0912)\SoilType(0912)\obj\x86\Debug\SoilType.ShowTable.resources
+D:\SoilType(0912)\SoilType(0912)\obj\x86\Debug\SoilType.Properties.Resources.resources
+D:\SoilType(0912)\SoilType(0912)\obj\x86\Debug\SoilType.csproj.GenerateResource.cache
+D:\SoilType(0912)\SoilType(0912)\obj\x86\Debug\SoilType.csproj.CoreCompileInputs.cache
+D:\SoilType(0912)\SoilType(0912)\obj\x86\Debug\SoilType.exe
+D:\SoilType(0912)\SoilType(0912)\obj\x86\Debug\SoilType.pdb
+D:\SoilType(0912)\SoilType(0912)\bin\x86\Debug\SoilType.exe.config
+D:\SoilType(0912)\SoilType(0912)\bin\x86\Debug\SoilType.exe
+D:\SoilType(0912)\SoilType(0912)\bin\x86\Debug\SoilType.pdb
