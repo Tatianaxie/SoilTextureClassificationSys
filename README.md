@@ -1,0 +1,2 @@
+# SoilTextureClassificationSys
+auto classification system
