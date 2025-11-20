@@ -9,8 +9,8 @@ This soil texture classification categorizes soils based on the proportions of c
 C#  
 
 ## Input/Output Data Format**: 
-Single input: Integrs, floating-point number
-Batch input : CSV (Comma-Separated Values)  
+- Single input: Integrs, floating-point number
+- Batch input : CSV (Comma-Separated Values)  
 
 ## Developer
 Tiantian Xie (Tatiana)
