@@ -5,10 +5,10 @@ This soil texture classification categorizes soils based on the proportions of c
 - **`.sln` file**: This is the main solution file of the program. It is recommended to open it using **Microsoft Visual Studio 2019**.
 - **`testdata/` folder**: Contains the test datasets used for the program.
   
-## Programming Language**: 
+## Programming Language: 
 C#  
 
-## Input/Output Data Format**: 
+## Input/Output Data Format: 
 - Single input: Integrs, floating-point number
 - Batch input : CSV (Comma-Separated Values)  
 
